@@ -1,0 +1,101 @@
+,p1,p2,p3,p4,score,age,price,diff
+0,João Ricardo,Edward Chilufya,Luis Reyes,Nathan Tella,168.7,34233123,0.0326,-0.0010970000000000285
+1,João Ricardo,Erik Lamela,Juan Lucero,Felix Torres,192.6,34303126,0.0379,-0.0008169999999999705
+2,Rick,Nathan Tella,João Ricardo,Dodô,178.9,23233424,0.0353,-0.000166000000000055
+3,Juan García,João Ricardo,Eren Elmalı,Raphaël Varane,193.7,30342229,0.0362,-0.0002139999999999989
+4,Fernando Miguel,Fousseni Diabaté,Rafa Mir,Matheus Reis,191.4,38272527,0.0339,0.0004130000000000314
+5,Jesús Navas,Fernando Miguel,Rafa Mir,Rafael Borré,174.0,37382527,0.033,0.0012499999999999664
+6,Paulinho,George Long,Juan García,Enis Bardhi,173.4,28293027,0.0391,-0.0023390000000000494
+7,Marcel Halstenberg,Benjamin Henrichs,João Ricardo,Moise Kean,173.8,31253422,0.0359,-0.0008630000000000373
+8,João Ricardo,Sébastien Corchia,Rick,Edin Džeko,178.6,34322336,0.0303,0.0013209999999999888
+9,Ashley Barnes,Evan Ndicka,Jeremy Márquez,João Ricardo,164.79999999999998,33232234,0.0356,-0.00088499999999999
+10,Manuel Benson,George Saville,João Ricardo,Cameron Humphreys,182.89999999999998,25293424,0.0253,0.0009270000000000354
+11,Marwin Hitz,Juan García,Elseid Hysaj,Auston Trusty,174.8,35302924,0.0396,-0.0020779999999999965
+12,Paulinho,Rafael Borré,João Ricardo,Nemanja Gudelj,174.5,28273431,0.0252,0.002978999999999954
+13,Connor Roberts,João Ricardo,Jordi Alba,Toni Martínez,192.6,27343325,0.0358,-0.0005369999999999611
+14,Kevin Behrens,Jesús Navas,Josh Sargent,João Ricardo,184.4,32372234,0.039,-0.0011309999999999792
+15,Evann Guessand,Fernando Miguel,Koki Tachi,Alan Cervantes,180.10000000000002,21382525,0.036199999999999996,0.0004949999999999954
+16,Pere Pons,João Ricardo,Wout Weghorst,Benjamin Henrichs,173.9,30343025,0.0327,0.000253000000000031
+17,Wout Weghorst,Vitor Hugo,João Ricardo,Moses Simon,178.60000000000002,30313427,0.0354,-0.0016669999999999602
+18,João Ricardo,Juan Garro,Jean-Philippe Gbamin,Gianluca Mancini,179.7,34302726,0.0297,0.0017260000000000227
+19,Cameron Humphreys,Andreas Voglsammer,Stephan El Shaarawy,João Ricardo,173.1,24313034,0.030100000000000002,0.0016609999999999958
+20,João Ricardo,Tinga,Mitchel Bakker,Marco Asensio,193.60000000000002,34292227,0.0356,0.00021800000000004455
+21,Oliver Burke,Max Aarons,Edin Džeko,João Ricardo,166.5,25233634,0.0362,-0.0008729999999999988
+22,Joe Gomez,Matteo Politano,João Ricardo,Hiroyuki Abe,170.4,25293433,0.0291,6.60000000000105e-05
+23,Sébastien Corchia,João Ricardo,Cristiano Biraghi,Juan Garro,175.9,32343030,0.0297,0.002223000000000013
+24,Fernando Miguel,Jonathan Ikoné,Jordan Siebatcheu,Matheus Reis,181.70000000000002,38242627,0.038900000000000004,-0.001503000000000032
+25,João Ricardo,Nadiem Amiri,Tinga,Gustav Isaksen,189.0,34262921,0.035,0.00031500000000003747
+26,Joseph Okumu,João Ricardo,Hamidou Traoré,Brayan Trejo,190.8,25342623,0.032100000000000004,-0.0016140000000000355
+27,Michael Murillo,Luis Reyes,Fernando Miguel,Oliver Burke,179.6,27313825,0.038000000000000006,-0.0016990000000000616
+28,Franklin Guerra,Tarik,João Ricardo,Riccardo Calafiori,176.6,30343420,0.027700000000000002,0.002846999999999992
+29,João Ricardo,Piero Hincapié,Michael Estrada,Matheus Reis,175.0,34212627,0.0366,0.0001609999999999806
+30,Rick,Armando Obispo,Edmond Tapsoba,João Ricardo,187.9,23232434,0.0373,-0.0017909999999999593
+31,João Ricardo,Oliver Burke,Mitchel Bakker,Francis Amuzu,166.6,34252223,0.0267,0.0022949999999999637
+32,Joe Gomez,Sebastian Rode,Fernando Miguel,Edward Chilufya,161.7,25323823,0.0344,-0.002441999999999958
+33,Grant Hanley,Edward Chilufya,Fernando Miguel,Paulinho,175.4,31233828,0.037700000000000004,-0.0006309999999999649
+34,Nacho,João Ricardo,Titi,Amine Adli,166.60000000000002,33343422,0.0282,0.001631999999999991
+35,Djaniny Semedo,Luka Modrić,Auston Trusty,João Ricardo,179.6,31372434,0.0273,0.0027739999999999918
+36,Fernando Miguel,Akimi Barada,Lucas Esteves,Youssef En-Nesyri,185.4,38312225,0.04000000000000001,-0.0014099999999999946
+37,Fernando Miguel,Jake Cooper,Sebastian Rode,Julio Furch,188.9,38283233,0.0335,0.0007270000000000401
+38,João Ricardo,José Welison,Romarinho,Jonathan Tah,172.60000000000002,34272827,0.0239,0.004584999999999978
+39,Enis Bardhi,João Ricardo,Jordan Beyer,Laurent Depoitre,190.7,27342234,0.0322,-4.6999999999984554e-05
+40,Oliver Burke,Evann Guessand,Vitor Hugo,João Ricardo,159.6,25213134,0.03,0.002003999999999964
+41,Óliver Torres,Igor,João Ricardo,Youssef En-Nesyri,188.7,28253425,0.037500000000000006,-0.002105999999999962
+42,Djaniny Semedo,Paulinho,Fernando Miguel,Sebastian Rode,175.8,31283832,0.027600000000000003,0.003127000000000022
+43,Omar Campos,Tinga,João Ricardo,Juan García,185.70000000000002,20293430,0.0303,0.0019699999999999995
+44,Juan García,Billy Mitchell,Marwin Hitz,Mitchel Bakker,183.59999999999997,30213522,0.039900000000000005,-0.0012420000000000556
+45,Andreas Voglsammer,Sébastien Corchia,Alessio Romagnoli,Fernando Miguel,182.5,31322838,0.0373,0.0006930000000000339
+46,Manuel Benson,Enis Bardhi,George Long,Sébastien Corchia,167.2,25272932,0.038500000000000006,-0.0023370000000000127
+47,Islam Slimani,Vitor Hugo,Janik Haberer,Fernando Miguel,179.8,34312838,0.0348,-0.0010139999999999663
+48,Hamidou Traoré,João Ricardo,Toni Martínez,Marcel Halstenberg,166.3,26342531,0.0228,0.003832000000000023
+49,Emil Forsberg,João Ricardo,Javier Correa,Riccardo Calafiori,175.8,31343020,0.038200000000000005,-0.0032670000000000407
+50,Manuel Benson,Allan,Fernando Miguel,Matheus Reis,193.70000000000002,25253827,0.0397,-0.0021160000000000345
+51,Michael Ngadeu,Fernando Miguel,Marcel Halstenberg,Edward Chilufya,177.2,32383123,0.0362,-0.0014209999999999917
+52,Davy Klaassen,João Ricardo,Edin Džeko,Ismail Jakobs,182.3,29343623,0.038,-0.00040300000000004915
+53,Hirokazu Ishihara,João Ricardo,Christian Kouamé,Majeed Ashimeru,174.89999999999998,23342525,0.0353,-0.0011110000000000494
+54,Piero Hincapié,João Ricardo,Djaniny Semedo,Edin Džeko,181.29999999999998,21343136,0.0389,-0.0011960000000000304
+55,Sébastien Corchia,João Ricardo,Marc Bartra,Amine Adli,174.5,32343222,0.0304,0.0014640000000000451
+56,João Ricardo,Pedro Chirivella,Riccardo Calafiori,Matteo Politano,180.7,34252029,0.036,0.0006550000000000306
+57,Vitor Hugo,Amine Adli,Fernando Miguel,Martín Nervo,182.7,31223832,0.03950000000000001,-0.0006000000000000449
+58,George Saville,Connor Roberts,Lyle Foster,João Ricardo,188.1,29272234,0.034,0.000860999999999966
+59,Edgar Zaldívar,João Ricardo,Andreas Voglsammer,Vertonghen,190.9,26343135,0.034100000000000005,-0.0011939999999999867
+60,Juan Garro,Guus Til,Fernando Miguel,Marcel Halstenberg,172.7,30253831,0.031200000000000002,0.0006579999999999954
+61,Luis Reyes,Jóhann Guðmunds­son,Fernando Miguel,Mostafa Mohamed,192.2,31323825,0.0382,-0.0005420000000000424
+62,Fernando Miguel,Pere Pons,Connor Roberts,Matteo Politano,177.1,38302729,0.037,2.5999999999963552e-05
+63,Fernando Miguel,Ashley Barnes,Ivan Rakitić,Fábio Cardoso,192.89999999999998,38333428,0.0353,0.001096999999999973
+64,Andreas Voglsammer,Michael Estrada,Michael Ngadeu,Fernando Miguel,186.10000000000002,31263238,0.038,-0.0008640000000000592
+65,Fousseni Diabaté,Laurent Depoitre,Nathan Aké,João Ricardo,190.7,27342834,0.0299,0.00142800000000003
+66,Rafael Borré,Nemanja Gudelj,Marwin Hitz,Sébastien Corchia,164.7,27313532,0.039900000000000005,-0.0035860000000000475
+67,Juan García,Fernando Miguel,Alan Cervantes,Igor,190.5,30382525,0.031400000000000004,0.002163000000000033
+68,Jean-Charles Castelletto,Ashley Barnes,João Ricardo,Rafa Mir,184.29999999999998,28333425,0.031599999999999996,0.0019960000000000255
+69,Titi,Amadou Diawara,Michael Estrada,Janis Blaswich,172.1,34252631,0.0398,-0.0043250000000000025
+70,Anwar El Ghazi,Ismail Jakobs,João Ricardo,Max Aarons,173.9,27233423,0.030200000000000005,0.0016659999999999384
+71,João Ricardo,Piero Hincapié,Edward Chilufya,Mostafa Mohamed,165.60000000000002,34212325,0.0382,-0.0027760000000000423
+72,João Ricardo,Hirokazu Ishihara,Maxi Gómez,Mathías Olivera,183.6,34232625,0.0383,-0.0005150000000000016
+73,João Ricardo,Teemu Pukki,Tanguy Ndombélé,Tinga,179.2,34322629,0.0324,-0.00033900000000000596
+74,Adrien Truffert,João Ricardo,Tinga,Matteo Politano,178.1,21342929,0.0354,0.0001000000000000445
+75,George Honeyman,João Ricardo,Nicolò Casale,Romarinho,182.0,28342528,0.0356,0.00011500000000001787
+76,Francesco Acerbi,Kasim Adams,João Ricardo,Evann Guessand,183.7,35273421,0.034,0.0006029999999999577
+77,Brayan Trejo,Fernando Miguel,Jake Cooper,Rani Khedira,182.5,23382829,0.0332,-2.200000000004282e-05
+78,Mitchel Bakker,Kasim Adams,Ashley Barnes,João Ricardo,177.1,22273334,0.0287,0.00257600000000004
+79,Mykola Matviienko,Rafa Mir,Nemanja Gudelj,João Ricardo,188.7,26253134,0.0259,0.002447000000000015
+80,Jóhann Guðmunds­son,Edward Chilufya,Alessio Romagnoli,João Ricardo,172.7,32232834,0.0311,0.00042099999999996654
+81,Edward Chilufya,João Ricardo,Djibril Sow,Jean-Charles Castelletto,185.39999999999998,23342628,0.0318,0.00048700000000002214
+82,Janis Blaswich,Elseid Hysaj,Samuel Moutoussamy,Moises,175.10000000000002,31292626,0.0398,-0.0021549999999999694
+83,Lyle Foster,Nathan Aké,João Ricardo,Erik Lamela,173.5,22283430,0.0354,-0.0008919999999999484
+84,João Ricardo,Chris Smalling,Enis Bardhi,Romarinho,176.7,34332728,0.0351,-3.469446951953614e-17
+85,Rafa Mir,Akimi Barada,João Ricardo,Hugo Rodríguez,185.6,25313432,0.021,0.002295999999999968
+86,Brian Lozano,Arthur Cabral,Connor Roberts,João Ricardo,193.29999999999998,28242734,0.0346,0.00046400000000005465
+87,Henrikh Mkhitaryan,João Ricardo,Sheraldo Becker,Lucas Esteves,173.20000000000002,34342822,0.0359,-0.0006770000000000387
+88,Fernando Miguel,Brayan Trejo,Andreas Voglsammer,Felix Torres,184.9,38233126,0.0325,0.0017900000000000485
+89,Edward Chilufya,João Ricardo,Hiroyuki Abe,Raphaël Varane,163.0,23343329,0.0322,5.8000000000002494e-05
+90,João Ricardo,Hiroyuki Abe,Sébastien Corchia,Moise Kean,162.7,34333222,0.0318,0.0013370000000000187
+91,Benjamin Henrichs,João Ricardo,Emil Forsberg,Rafa Mir,175.99999999999997,25343125,0.0262,0.001056000000000036
+92,João Ricardo,Andreas Voglsammer,Lucas Esteves,Sebastián Coates,172.0,34312232,0.0354,-0.000637999999999965
+93,Fernando Miguel,Wendell,Emil Forsberg,Rafa Mir,183.9,38293125,0.0357,0.00041499999999995013
+94,Moises,Sébastien Corchia,Jordan Teze,João Ricardo,179.1,26322334,0.0323,-0.0012029999999999402
+95,George Honeyman,Tom Bradshaw,Edmond Tapsoba,João Ricardo,170.29999999999998,28302434,0.030699999999999998,0.0016319999999999599
+96,Islam Slimani,Pere Pons,Fernando Miguel,Kasim Adams,171.3,34303827,0.0345,-0.0002060000000000048
+97,Luka Modrić,Marcos Acuña,João Ricardo,Matteo Politano,185.7,37313429,0.034499999999999996,0.00011499999999999705
+98,Nacho,Andrei Girotto,João Ricardo,Cristian Pavón,181.2,33313427,0.0398,-0.0008449999999999569
+99,João Ricardo,Marcel Halstenberg,Ismail Jakobs,Julián Quiñones,177.10000000000002,34312325,0.0403,-0.0028339999999999685
